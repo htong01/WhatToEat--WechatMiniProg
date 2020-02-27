@@ -15,5 +15,7 @@
 
 ## Related Efforts
 reference: 
-> 样式模板(ColorUI)[https://github.com/weilanwl/ColorUI]
-> 参考小程序(hard choice)[https://github.com/0sheldonhuang0/wx_hard_choice]
+
+> 样式模板[ColorUI](https://github.com/weilanwl/ColorUI)
+
+> 参考小程序[hard choice](https://github.com/0sheldonhuang0/wx_hard_choice)
